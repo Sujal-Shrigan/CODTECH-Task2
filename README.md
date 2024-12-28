@@ -5,6 +5,9 @@
 - Duration :  DECEMBER TO JANUARY 2025
 - Mentor : NEELA SANTHOSH KUMAR
 
+![TEMPERATURE CONVERTER - 1](https://github.com/user-attachments/assets/129c3e20-e4c2-42fd-9b40-354f41790b4e)
+![TEMPERATURE CONVERTER - 2](https://github.com/user-attachments/assets/9e7a4e06-9b7d-47a4-8a5f-21f8a0f16ffd)
+
 Overview of the Code:
 The code is a temperature converter program implemented in C. It provides a menu-driven interface for users to perform temperature conversions between Celsius and Fahrenheit. The program runs in a loop, allowing the user to repeatedly choose an option until they decide to exit.
 
@@ -42,3 +45,5 @@ Key Activities in the Code:
 
 7. Looping Mechanism:
   - The program runs in a do-while loop, ensuring the menu is displayed and operations can be performed repeatedly until the user chooses to exit.
+
+![TEMPERATURE CONVERTER - 3](https://github.com/user-attachments/assets/4d845209-0d3e-4f34-b3da-c9c75daf5c8d)
